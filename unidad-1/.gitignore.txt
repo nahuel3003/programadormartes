@@ -1,0 +1,6 @@
+bart.png
+presupuesto.txt
+bart
+presupuesto
+unidad-1/bart.png
+unidad-1/presupuesto.txt
